@@ -1,1 +1,1 @@
-# EE272L-Digital-System-Design-Lab-UET2026
+# Digital-System-labs
